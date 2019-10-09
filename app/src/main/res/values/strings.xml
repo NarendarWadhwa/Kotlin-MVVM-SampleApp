@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FindMe</string>
+
+    <string name="user_list_title">User List</string>
+    <string name="user_details_title">User Location</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
